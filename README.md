@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phantom339&label=Profile%20views&color=0e75b6&style=flat" alt="phantom339" /> </p>
 
-- 🌱 I’m currently learning **Full stack web development**
+- 🌱 I’m currently learning **Machine Learning and Deep learning**
 
 - 📫 How to reach me **pulkitkathayat339@gmail.com**
 
